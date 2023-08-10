@@ -11,7 +11,7 @@ Var
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
-      escreval ("calculadora estoque medio de peças")
+   escreval ("calculadora estoque medio de peças")
    escreval("Codigo da Peça:")
    leia(codigo)
    escreval ("valor da peça unidade:")
